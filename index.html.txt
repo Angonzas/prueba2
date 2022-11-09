@@ -12,7 +12,7 @@
 	<header>
 		<nav>
 			<ul>
-				<li>Suscribete al canal code</li>
+				<li>Suscribete al canal</li>
 			</ul>
 		</nav>
 	</header>
@@ -47,3 +47,5 @@
 	</footer>
 
 </body>
+
+</html>
